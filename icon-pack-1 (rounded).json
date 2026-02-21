@@ -50,5 +50,9 @@
   {
     "name": "RogerEbert (RE)",
     "url": "https://raw.githubusercontent.com/Druidblack/jellyfin_ratings/refs/heads/main/logo/Roger_Ebert.png"
+  },
+  {
+    "name": "RogerEbert Alt (RE)",
+    "url": "https://raw.githubusercontent.com/yodaluca23/fusion-icon-packs/refs/heads/main/icons/RogerEbert.png"
   }
 ]
